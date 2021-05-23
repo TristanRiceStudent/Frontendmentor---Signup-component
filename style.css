@@ -182,19 +182,8 @@ body {
 }
 
 .signup-form__icon-error {
-    display: auto;
-    float: right;
-    position: relative;
-    z-index: 2;
-    margin-top: -60px;
-    margin-right: -150px;
-}
-
-
-.signup-form__icon-error {
     display: none;
 }
-
 
 .signup-form__input.error {
     border: 1px solid var(--red);
